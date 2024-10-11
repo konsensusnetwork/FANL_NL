@@ -5,9 +5,9 @@ project:
     browser: false
 
 book:
-  title: "Book Title"
+  title: "Voor een nieuwe vrijheid"
   output-file: main
-  author: "Book Author"
+  author: "Murray N. Rothbard"
   date: "01/01/0000"
   image: cover.png
   image-alt: "Book Cover"
@@ -58,7 +58,22 @@ book:
     site: "@konsensusn"
   chapters:
     - index.qmd
+    - chapters/CH00.qmd
     - chapters/CH01.qmd
+    - chapters/CH02.qmd
+    - chapters/CH03.qmd
+    - chapters/CH04.qmd
+    - chapters/CH05.qmd
+    - chapters/CH06.qmd
+    - chapters/CH07.qmd
+    - chapters/CH08.qmd
+    - chapters/CH09.qmd
+    - chapters/CH10.qmd
+    - chapters/CH11.qmd
+    - chapters/CH12.qmd
+    - chapters/CH13.qmd
+    - chapters/CH14.qmd
+    - chapters/CH15.qmd
 
 format:
   html:
